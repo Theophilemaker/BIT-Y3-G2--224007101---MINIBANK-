@@ -3,7 +3,7 @@
 ## 1. Logging In
 - Go to the login page and use the admin credentials:
   - Email: `niragire_224007101@stud.ur.ac.rw`
-  - Password: `admin123`
+  - Password: `15@theo20004n`
 
 ## 2. Managing Customers
 1. Go to **Customers** on the sidebar.
