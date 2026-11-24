@@ -1,16 +1,26 @@
+# 🏦 MiniBank Rwanda
 
-# MiniBank Rwanda
-** Banking Simulation System**
+**Academic Banking Simulation System**
 
-A full-stack, secure, and responsive online banking management system built with Core PHP (OOP), MySQL, Vanilla JavaScript, and pure CSS. 
+A full-stack, secure, and responsive online banking management system built with **Core PHP (OOP)**, **MySQL**, **Vanilla JavaScript**, and **Pure CSS**. This project simulates real-world banking workflows, emphasizing database integrity, atomic transactions, and role-based access control.
+
+![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange)
+![Architecture](https://img.shields.io/badge/Architecture-MVC-green)
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
+
+---
 
 ## 🚀 Features
+
 - **Authentication:** Secure registration, login, and logout with Bcrypt password hashing and CSRF protection.
-- **Customer Dashboard:** Real-time balance tracking, multi-account management, and quick actions.
+- **Customer Dashboard:** Real-time balance tracking, multi-account management (Savings/Current), and quick actions.
 - **Transactions:** Secure deposits, withdrawals, and double-entry atomic money transfers.
 - **Statements:** Generate and print professional PDF bank statements.
 - **Admin Panel:** Complete control over customers, accounts, transactions, system settings (logo/slogan), and contact messages.
 - **Contact Form:** Public contact form with messages saved directly to the admin database.
+
+---
 
 ## 🛠️ Setup Instructions (XAMPP on Windows)
 
@@ -37,20 +47,61 @@ A full-stack, secure, and responsive online banking management system built with
    DB_HOST=localhost
    DB_NAME=mini_banking_system
    DB_USER=root
-   DB_PASS=""
-  ## 🔐 Default Credentials##
-  Administrator Account
-.URL: http://localhost/minibank-rwanda/public/login.php
+   DB_PASS=
+  
+4. Run the Application
+Open your browser and go to:
+http://localhost/minibank-rwanda/public/
 
-.Email: niragire_224007101@stud.ur.ac.rw
+🔐 Default Credentials
+Administrator Account
+URL: http://localhost/minibank-rwanda/public/login.php
 
-.Password: admin123
-Test Customer Accounts:
-1.Customer1:
-2.customer2:
-![alt text](image.png)
-![alt text](image-1.png)
-=======
+Email: niragire_224007101@stud.ur.ac.rw
+
+Password: 15@theo20004n
+
+Test Customer Accounts
+Customer 1:
+
+Name: Delphine Tuyizere
+
+Email: tuyizere@gmail.com
+
+Password: tuyizere12
+
+Customer 2:
+
+Name: Samson Tuyisingize
+
+Email: samson298@gmail.com
+
+Password: samson123
+
+📁 Project Structure
+This project follows a strict MVC-inspired architecture:
+
+app/ - Core logic, Controllers, Models, Services, and Views.
+
+database/ - SQL schema and seed files.
+
+public/ - The web root (index, login, assets).
+
+routes/ - Central routing logic (web.php).
+
+storage/ - Logs, cache, and temporary generated PDFs.
+
+🛡️ Security Implementations
+Password Hashing: Bcrypt (password_hash()).
+
+SQL Injection: PDO Prepared Statements.
+
+XSS Protection: Output escaping and input sanitization.
+
+CSRF Protection: Unique tokens generated for every form.
+
+Database Transactions: beginTransaction() and FOR UPDATE locks for money transfers.
+
 # BIT-Y3-G2--224007101---MINIBANK-
-Online Banking Mini System which help customers to register,deposit,withdraw,view balances,transfer and see history
+ An Online Banking Mini System which helps customers to register, deposit, withdraw, view balances, transfer funds, and see transaction history
 
