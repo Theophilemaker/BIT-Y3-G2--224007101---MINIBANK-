@@ -23,6 +23,7 @@
 
 OUTPUT OF SAME ERRORS I HAVE EXPERIENCED WITH AND PASSED 
 <img width="893" height="407" alt="image" src="https://github.com/user-attachments/assets/23b86829-1c2d-45d0-b15a-d2f4bbcb7140" />
+<img width="899" height="197" alt="image-1" src="https://github.com/user-attachments/assets/e56ca017-be8a-4555-ba97-9ff7c6206024" />
 
 
 
