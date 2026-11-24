@@ -19,3 +19,11 @@
 | TC-08 | Admin | Delete account with balance > 0 | System blocks deletion | Pass |
 | TC-09 | Security | Submit form without CSRF token | Form submission rejected | Pass |
 | TC-10 | Security | Inject SQL into login form | Rejected safely via PDO | Pass |
+
+
+OUTPUT OF SAME ERRORS I HAVE EXPERIENCED WITH AND PASSED 
+<img width="893" height="407" alt="image" src="https://github.com/user-attachments/assets/23b86829-1c2d-45d0-b15a-d2f4bbcb7140" />
+
+
+
+
