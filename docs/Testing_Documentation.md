@@ -24,6 +24,14 @@
 OUTPUT OF SAME ERRORS I HAVE EXPERIENCED WITH AND PASSED 
 <img width="893" height="407" alt="image" src="https://github.com/user-attachments/assets/23b86829-1c2d-45d0-b15a-d2f4bbcb7140" />
 <img width="899" height="197" alt="image-1" src="https://github.com/user-attachments/assets/e56ca017-be8a-4555-ba97-9ff7c6206024" />
+##Register Validation##
+1.failed account creation:<img width="945" height="472" alt="image" src="https://github.com/user-attachments/assets/f01a48f7-6bbc-423d-a3bb-b190639f74ff" />
+2.passed test
+
+##login validation##
+<img width="948" height="466" alt="image" src="https://github.com/user-attachments/assets/4ad43472-28fd-422d-a2d5-1ec83390a016" />
+
+
 
 
 
