@@ -1,6 +1,6 @@
 # Software Requirements Specification (SRS)
 ## Project: MiniBank Rwanda
-**Version:** 1 
+**Version:** 1.0
 **Author and developer:** Niragire Theophile (Academic Project)  
 **Date:** 24 november 2026
 
