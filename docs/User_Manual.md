@@ -10,13 +10,14 @@
 1. Log in and go to **Deposit** on the sidebar.
 2. Select the account you want to deposit into.
 3. Enter the amount (e.g., 50000) and a description.
-4. Click **Confirm Deposit**. The balance updates instantly.
+4. Enter description (source of funds)
+5. Click **Confirm Deposit**. The balance updates instantly.
 
 ## 3. How to Transfer Money
 1. Go to **Transfer Money** on the sidebar.
 2. Select your Source Account.
 3. Enter the Destination Account Number (e.g., `ACC-12345678`).
-4. Enter the amount and a description.
+4. Enter the amount and a description(Reasons for transfer funds).
 5. Click **Send Transfer**. 
    *Note: Ensure the destination account is active and you have sufficient funds.*
 
