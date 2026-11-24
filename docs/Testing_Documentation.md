@@ -34,6 +34,18 @@ OUTPUT OF SAME ERRORS I HAVE EXPERIENCED WITH AND PASSED
  1. routing failed but solved :
  2. <img width="952" height="199" alt="image" src="https://github.com/user-attachments/assets/d5124cde-f59e-45ef-9267-f6b12a0c6b46" />
 not found file but fixed after.
+<img width="469" height="170" alt="image" src="https://github.com/user-attachments/assets/6bfa99b6-727c-4f70-87fd-d23294c59181" />
+<img width="929" height="140" alt="image" src="https://github.com/user-attachments/assets/9c0fbd83-e116-4f24-932b-b37bb33905e6" />
+ fatal errors on customer statement
+<img width="956" height="130" alt="image" src="https://github.com/user-attachments/assets/7ca58f1e-c861-4732-a9b0-5367d0fc5d51" />
+wrong path of css (errors:public/style.css and corrected: public/css/style.css.
+failed :<img width="938" height="466" alt="image" src="https://github.com/user-attachments/assets/e8de93e7-dbc6-4300-b255-d0720777755c" />
+passed corrected: public/css/style.css.
+<img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/7af40a21-c8dd-4752-a14b-85537a8cf02b" />
+
+
+
+
 
 
  
