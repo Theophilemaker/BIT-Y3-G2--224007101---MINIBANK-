@@ -2,15 +2,15 @@
 ## Project: MiniBank Rwanda
 **Version:** 1.0  
 **Author:** Niragire (Academic Project)  
-**Date:** <?= date('Y') ?>
+**Date:** 24 november 2026
 
 ## 1. Introduction
 MiniBank Rwanda is a web-based academic banking simulation system designed to demonstrate secure financial workflows, database integrity, and modern UI/UX design. It does not process real money but mimics the exact logic of a commercial bank.
 
 ## 2. Functional Requirements
 ### 2.1 Customer Module
-- **FR1:** Customers must be able to register with a unique email and secure password.
-- **FR2:** Customers can log in securely and are redirected to their dashboard.
+- **FR1:** Customers must be able to register with his/her full name,phone number,address a unique email and secure password.
+- **FR2:** Customers can log in  with unique email and passsword securely and are redirected to their dashboard.
 - **FR3:** Customers can view their total balance and individual account balances.
 - **FR4:** Customers can open multiple accounts (Savings or Current).
 - **FR5:** Customers can deposit simulated funds into their accounts.
@@ -31,6 +31,6 @@ MiniBank Rwanda is a web-based academic banking simulation system designed to de
 ## 3. Non-Functional Requirements
 - **NFR1 (Security):** All passwords must be hashed using Bcrypt. SQL Injection must be prevented using PDO.
 - **NFR2 (Integrity):** Financial transfers must use Database Transactions (ACID) with Row Locking to prevent double-spending.
-- **NFR3 (Usability):** The UI must be fully responsive (Mobile, Tablet, Desktop) and support a professional color scheme.
+- **NFR3 (Usability):** The UI must be fully responsive (Mobile, Tablet, Desktop) and support a good color scheme.
 - **NFR4 (Performance):** Heavy queries (like Admin Reports) must be fast and paginated.
 - **NFR5 (Reliability):** The system must log critical errors and admin actions to `storage/logs/`.
