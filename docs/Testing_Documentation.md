@@ -27,9 +27,11 @@ OUTPUT OF SAME ERRORS I HAVE EXPERIENCED WITH AND PASSED
 ##Register Validation##
 1.failed account creation:<img width="945" height="472" alt="image" src="https://github.com/user-attachments/assets/f01a48f7-6bbc-423d-a3bb-b190639f74ff" />
 2.passed test
-
+<img width="959" height="476" alt="image" src="https://github.com/user-attachments/assets/ef84c0ab-0044-4ae2-9b08-e5cd593328b5" />
 ##login validation##
 <img width="948" height="466" alt="image" src="https://github.com/user-attachments/assets/4ad43472-28fd-422d-a2d5-1ec83390a016" />
+ Same Failed path but solved are:
+ 
 
 
 
