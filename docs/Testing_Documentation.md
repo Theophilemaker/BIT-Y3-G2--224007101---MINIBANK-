@@ -44,6 +44,14 @@ passed corrected: public/css/style.css.
 <img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/7af40a21-c8dd-4752-a14b-85537a8cf02b" />
  test in genera of (authtest,index,securitytest,transactiontest
 <img width="860" height="278" alt="image" src="https://github.com/user-attachments/assets/5107a968-beb7-4281-a691-0612e81c1fb7" />
+server errors
+<img width="833" height="224" alt="Screenshot 2026-11-22 081155" src="https://github.com/user-attachments/assets/6eca52ca-d328-414a-bc3d-02410028ef98" />
+same undefined variable cousing this issues
+<img width="926" height="439" alt="Screenshot 2026-11-22 081454" src="https://github.com/user-attachments/assets/46b76271-d4cb-4b30-9ca8-df431820168d" />
+<img width="932" height="466" alt="Screenshot 2026-11-22 081536" src="https://github.com/user-attachments/assets/d29fa96c-2593-438a-bf09-507c1e66a501" />
+
+
+
 
 
 
