@@ -31,6 +31,11 @@ OUTPUT OF SAME ERRORS I HAVE EXPERIENCED WITH AND PASSED
 ##login validation##
 <img width="948" height="466" alt="image" src="https://github.com/user-attachments/assets/4ad43472-28fd-422d-a2d5-1ec83390a016" />
  Same Failed path but solved are:
+ 1. routing failed but solved :
+ 2. <img width="952" height="199" alt="image" src="https://github.com/user-attachments/assets/d5124cde-f59e-45ef-9267-f6b12a0c6b46" />
+not found file but fixed after.
+
+
  
 
 
