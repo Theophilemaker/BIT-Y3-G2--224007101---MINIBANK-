@@ -42,6 +42,9 @@ wrong path of css (errors:public/style.css and corrected: public/css/style.css.
 failed :<img width="938" height="466" alt="image" src="https://github.com/user-attachments/assets/e8de93e7-dbc6-4300-b255-d0720777755c" />
 passed corrected: public/css/style.css.
 <img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/7af40a21-c8dd-4752-a14b-85537a8cf02b" />
+ test in genera of (authtest,index,securitytest,transactiontest
+<img width="860" height="278" alt="image" src="https://github.com/user-attachments/assets/5107a968-beb7-4281-a691-0612e81c1fb7" />
+
 
 
 
