@@ -1,0 +1,9 @@
+.env
+storage/logs/*
+storage/statements/*
+storage/cache/*
+!storage/logs/.htaccess
+!storage/statements/.htaccess
+!storage/cache/.htaccess
+public/uploads/*
+!public/uploads/.htaccess
