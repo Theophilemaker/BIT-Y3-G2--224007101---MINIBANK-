@@ -1,3 +1,4 @@
+
 # MiniBank Rwanda
 ** Banking Simulation System**
 
@@ -49,3 +50,7 @@ Test Customer Accounts:
 2.customer2:
 ![alt text](image.png)
 ![alt text](image-1.png)
+=======
+# BIT-Y3-G2--224007101---MINIBANK-
+Online Banking Mini System which help customers to register,deposit,withdraw,view balances,transfer and see history
+
