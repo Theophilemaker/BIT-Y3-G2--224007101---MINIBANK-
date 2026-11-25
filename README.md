@@ -101,6 +101,8 @@ XSS Protection: Output escaping and input sanitization.
 CSRF Protection: Unique tokens generated for every form.
 
 Database Transactions: beginTransaction() and FOR UPDATE locks for money transfers.
+|| Rest cases of project from starting up to end ||
+
 
 # BIT-Y3-G2--224007101---MINIBANK-
  An Online Banking Mini System which helps customers to register, deposit, withdraw, view balances, transfer funds, and see transaction history
